@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ghreal2u/static/css/main.f73826a7.chunk.css",
+    "main.js": "/ghreal2u/static/js/main.0f1317e0.chunk.js",
+    "main.js.map": "/ghreal2u/static/js/main.0f1317e0.chunk.js.map",
+    "runtime-main.js": "/ghreal2u/static/js/runtime-main.731963c3.js",
+    "runtime-main.js.map": "/ghreal2u/static/js/runtime-main.731963c3.js.map",
+    "static/css/2.c27a359e.chunk.css": "/ghreal2u/static/css/2.c27a359e.chunk.css",
+    "static/js/2.a0a2332a.chunk.js": "/ghreal2u/static/js/2.a0a2332a.chunk.js",
+    "static/js/2.a0a2332a.chunk.js.map": "/ghreal2u/static/js/2.a0a2332a.chunk.js.map",
+    "index.html": "/ghreal2u/index.html",
+    "precache-manifest.6a7c3d017ecf1b9eb4c16a4c42de63e0.js": "/ghreal2u/precache-manifest.6a7c3d017ecf1b9eb4c16a4c42de63e0.js",
+    "service-worker.js": "/ghreal2u/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/ghreal2u/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.f73826a7.chunk.css.map": "/ghreal2u/static/css/main.f73826a7.chunk.css.map",
+    "static/js/2.a0a2332a.chunk.js.LICENSE.txt": "/ghreal2u/static/js/2.a0a2332a.chunk.js.LICENSE.txt",
+    "static/media/ghlogo.png": "/ghreal2u/static/media/ghlogo.0ba2aa20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.731963c3.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.a0a2332a.chunk.js",
+    "static/css/main.f73826a7.chunk.css",
+    "static/js/main.0f1317e0.chunk.js"
+  ]
+}
